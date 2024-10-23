@@ -65,11 +65,11 @@ A API estará disponível em http://localhost:8080
 
 | Método | Endpoint                       | Descrição                        |
 |--------|--------------------------------|----------------------------------|
-| POST   | /api/medicamentos              | Cadastra um novo medicamento     |
-| GET    | /api/medicamentos/{id}        | Obtém um medicamento pelo ID     |
-| PUT    | /api/medicamentos/{id}        | Atualiza um medicamento pelo ID   |
-| DELETE | /api/medicamentos/{id}        | Remove um medicamento pelo ID     |
-| GET    | /api/medicamentos              | Obtém todos os medicamentos       |
+| POST   | /api/items                    | Cadastra um novo medicamento      |
+| GET    | /api/items/{id}               | Obtém um medicamento pelo ID      |
+| PUT    | /api/items/{id}               | Atualiza um medicamento pelo ID   |
+| DELETE | /api/items/{id}               | Remove um medicamento pelo ID     |
+| GET    | /api/items                    | Obtém todos os medicamentos       |
 
 
 ## Autor
